@@ -1,7 +1,7 @@
 import math
 """
  get inputgirt 
- devide sheets by 5
+divide sheets by 5
 round up
 print output
 """
