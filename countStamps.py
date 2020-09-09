@@ -6,10 +6,10 @@ def calculate(sheets):
     print('-------------------------')
     print('Sheets:', sheets)
     print('The answer is: ',answer)
-    stamps = math.ceil(answer)
+    stamps = math.ceil(answer)gitr
     print ('Rounded:',stamps,'!')
     print('-------------------------')
     return stamps
 output = calculate(16)
 
-print("the return statement is: ", output)
+print("the return statement is: ", output)git
