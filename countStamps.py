@@ -1,4 +1,10 @@
 import math
+"""
+ get inputgirt 
+ devide sheets by 5
+round up
+print output
+"""
 sheets = 16
 
 def calculate(sheets):
